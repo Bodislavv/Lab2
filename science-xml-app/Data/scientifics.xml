@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scientifics>
+	<Scientific>
+		<Id>1</Id>
+		<FullName>Заєць І.В.</FullName>
+		<Faculcy>122</Faculcy>
+		<Cafedra>Комп'ютерні науки</Cafedra>
+		<Level>Доктор наук</Level>
+		<WhenGotLevel>2020-09-01T08:00:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>2</Id>
+		<FullName>Попович О.О.</FullName>
+		<Faculcy>113</Faculcy>
+		<Cafedra>Математика</Cafedra>
+		<Level>Кандидат наук</Level>
+		<WhenGotLevel>2020-09-02T09:15:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>3</Id>
+		<FullName>Тарасенко М.А.</FullName>
+		<Faculcy>102</Faculcy>
+		<Cafedra>Хімія</Cafedra>
+		<Level>Доктор наук</Level>
+		<WhenGotLevel>2020-09-01T10:30:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>4</Id>
+		<FullName>Коваленко В.І.</FullName>
+		<Faculcy>101</Faculcy>
+		<Cafedra>Історія</Cafedra>
+		<Level>Кандидат наук</Level>
+		<WhenGotLevel>2020-09-03T11:45:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>5</Id>
+		<FullName>Іванюк С.В.</FullName>
+		<Faculcy>123</Faculcy>
+		<Cafedra>Хімія</Cafedra>
+		<Level>Доктор наук</Level>
+		<WhenGotLevel>2020-09-02T13:00:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>6</Id>
+		<FullName>Петренко Т.В.</FullName>
+		<Faculcy>053</Faculcy>
+		<Cafedra>Психологія</Cafedra>
+		<Level>Кандидат наук</Level>
+		<WhenGotLevel>2020-09-02T14:15:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>7</Id>
+		<FullName>Андрійчук В.В.</FullName>
+		<Faculcy>505</Faculcy>
+		<Cafedra>Екологія</Cafedra>
+		<Level>Доктор наук</Level>
+		<WhenGotLevel>2020-09-01T15:30:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>8</Id>
+		<FullName>Вовчук А.В.</FullName>
+		<Faculcy>054</Faculcy>
+		<Cafedra>Соціологія</Cafedra>
+		<Level>Кандидат наук</Level>
+		<WhenGotLevel>2020-09-03T16:45:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>9</Id>
+		<FullName>Шевченко І.І.</FullName>
+		<Faculcy>033</Faculcy>
+		<Cafedra>Філософія</Cafedra>
+		<Level>Доктор наук</Level>
+		<WhenGotLevel>2020-09-02T17:45:00</WhenGotLevel>
+	</Scientific>
+	<Scientific>
+		<Id>10</Id>
+		<FullName>Вовк В.П.</FullName>
+		<Faculcy>104</Faculcy>
+		<Cafedra>Право</Cafedra>
+		<Level>Кандидат наук</Level>
+		<WhenGotLevel>2020-09-01T18:00:00</WhenGotLevel>
+	</Scientific>
+</Scientifics>
